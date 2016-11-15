@@ -1,0 +1,415 @@
+Your app listening on port 3000!
+{ p1: undefined,
+  p2: undefined,
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+{ p1: 'board',
+  p2: undefined,
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+{"vendor":"IBM","model":"IBM-PC S-100","cpu":{"model":"80286","hz":12000},"image":"http://www.s100computers.com/My%20System%20Pages/80286%20Board/Picture%20of%2080286%20V2%20BoardJPG.jpg","video":"http://www.s100computers.com/My%20System%20Pages/80286%20Board/80286-Demo3.mp4"}
+{ p1: 'ram',
+  p2: undefined,
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+{"vendor":"CTS","volume":1048576,"pins":30}
+{ p1: 'os',
+  p2: undefined,
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+"MS-DOS 1.25"
+{ p1: 'hdd',
+  p2: undefined,
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+[{"vendor":"Samsung","size":33554432,"volume":"C:"},{"vendor":"Maxtor","size":16777216,"volume":"D:"},{"vendor":"Maxtor","size":8388608,"volume":"C:"}]
+{ p1: 'board',
+  p2: 'vendor',
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+{"vendor":"IBM","model":"IBM-PC S-100","cpu":{"model":"80286","hz":12000},"image":"http://www.s100computers.com/My%20System%20Pages/80286%20Board/Picture%20of%2080286%20V2%20BoardJPG.jpg","video":"http://www.s100computers.com/My%20System%20Pages/80286%20Board/80286-Demo3.mp4"}
+"IBM"
+{ p1: 'board',
+  p2: 'model',
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+{"vendor":"IBM","model":"IBM-PC S-100","cpu":{"model":"80286","hz":12000},"image":"http://www.s100computers.com/My%20System%20Pages/80286%20Board/Picture%20of%2080286%20V2%20BoardJPG.jpg","video":"http://www.s100computers.com/My%20System%20Pages/80286%20Board/80286-Demo3.mp4"}
+"IBM-PC S-100"
+{ p1: 'board',
+  p2: 'cpu',
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+{"vendor":"IBM","model":"IBM-PC S-100","cpu":{"model":"80286","hz":12000},"image":"http://www.s100computers.com/My%20System%20Pages/80286%20Board/Picture%20of%2080286%20V2%20BoardJPG.jpg","video":"http://www.s100computers.com/My%20System%20Pages/80286%20Board/80286-Demo3.mp4"}
+{"model":"80286","hz":12000}
+{ p1: 'board',
+  p2: 'image',
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+{"vendor":"IBM","model":"IBM-PC S-100","cpu":{"model":"80286","hz":12000},"image":"http://www.s100computers.com/My%20System%20Pages/80286%20Board/Picture%20of%2080286%20V2%20BoardJPG.jpg","video":"http://www.s100computers.com/My%20System%20Pages/80286%20Board/80286-Demo3.mp4"}
+"http://www.s100computers.com/My%20System%20Pages/80286%20Board/Picture%20of%2080286%20V2%20BoardJPG.jpg"
+{ p1: 'board',
+  p2: 'video',
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+{"vendor":"IBM","model":"IBM-PC S-100","cpu":{"model":"80286","hz":12000},"image":"http://www.s100computers.com/My%20System%20Pages/80286%20Board/Picture%20of%2080286%20V2%20BoardJPG.jpg","video":"http://www.s100computers.com/My%20System%20Pages/80286%20Board/80286-Demo3.mp4"}
+"http://www.s100computers.com/My%20System%20Pages/80286%20Board/80286-Demo3.mp4"
+{ p1: 'ram',
+  p2: 'vendor',
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+{"vendor":"CTS","volume":1048576,"pins":30}
+"CTS"
+{ p1: 'ram',
+  p2: 'volume',
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+{"vendor":"CTS","volume":1048576,"pins":30}
+1048576
+{ p1: 'ram',
+  p2: 'pins',
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+{"vendor":"CTS","volume":1048576,"pins":30}
+30
+{ p1: 'volumes',
+  p2: undefined,
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+{ p1: 'floppy',
+  p2: undefined,
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+0
+{ p1: 'hdd',
+  p2: '0',
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+[{"vendor":"Samsung","size":33554432,"volume":"C:"},{"vendor":"Maxtor","size":16777216,"volume":"D:"},{"vendor":"Maxtor","size":8388608,"volume":"C:"}]
+{"vendor":"Samsung","size":33554432,"volume":"C:"}
+{ p1: 'hdd',
+  p2: '0',
+  p3: 'vendor',
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+[{"vendor":"Samsung","size":33554432,"volume":"C:"},{"vendor":"Maxtor","size":16777216,"volume":"D:"},{"vendor":"Maxtor","size":8388608,"volume":"C:"}]
+{"vendor":"Samsung","size":33554432,"volume":"C:"}
+"Samsung"
+{ p1: 'hdd',
+  p2: '0',
+  p3: 'size',
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+[{"vendor":"Samsung","size":33554432,"volume":"C:"},{"vendor":"Maxtor","size":16777216,"volume":"D:"},{"vendor":"Maxtor","size":8388608,"volume":"C:"}]
+{"vendor":"Samsung","size":33554432,"volume":"C:"}
+33554432
+{ p1: 'hdd',
+  p2: '0',
+  p3: 'volume',
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+[{"vendor":"Samsung","size":33554432,"volume":"C:"},{"vendor":"Maxtor","size":16777216,"volume":"D:"},{"vendor":"Maxtor","size":8388608,"volume":"C:"}]
+{"vendor":"Samsung","size":33554432,"volume":"C:"}
+"C:"
+{ p1: 'hdd',
+  p2: '1',
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+[{"vendor":"Samsung","size":33554432,"volume":"C:"},{"vendor":"Maxtor","size":16777216,"volume":"D:"},{"vendor":"Maxtor","size":8388608,"volume":"C:"}]
+{"vendor":"Maxtor","size":16777216,"volume":"D:"}
+{ p1: 'hdd',
+  p2: '1',
+  p3: 'volume',
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+[{"vendor":"Samsung","size":33554432,"volume":"C:"},{"vendor":"Maxtor","size":16777216,"volume":"D:"},{"vendor":"Maxtor","size":8388608,"volume":"C:"}]
+{"vendor":"Maxtor","size":16777216,"volume":"D:"}
+"D:"
+{ p1: 'hdd',
+  p2: '22',
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+[{"vendor":"Samsung","size":33554432,"volume":"C:"},{"vendor":"Maxtor","size":16777216,"volume":"D:"},{"vendor":"Maxtor","size":8388608,"volume":"C:"}]
+undefined
+{ p1: 'hdd',
+  p2: '222',
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+[{"vendor":"Samsung","size":33554432,"volume":"C:"},{"vendor":"Maxtor","size":16777216,"volume":"D:"},{"vendor":"Maxtor","size":8388608,"volume":"C:"}]
+undefined
+{ p1: 'other',
+  p2: undefined,
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+undefined
+{ p1: 'some',
+  p2: 'other',
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+undefined
+{ p1: 'hdd',
+  p2: 'some',
+  p3: 'other',
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+[{"vendor":"Samsung","size":33554432,"volume":"C:"},{"vendor":"Maxtor","size":16777216,"volume":"D:"},{"vendor":"Maxtor","size":8388608,"volume":"C:"}]
+{ p1: 'hdd',
+  p2: '-1',
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+[{"vendor":"Samsung","size":33554432,"volume":"C:"},{"vendor":"Maxtor","size":16777216,"volume":"D:"},{"vendor":"Maxtor","size":8388608,"volume":"C:"}]
+undefined
+{ p1: 'hdd.0',
+  p2: undefined,
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+undefined
+{ p1: 'hdd[0]',
+  p2: undefined,
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+undefined
+{ p1: 'monitor',
+  p2: undefined,
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+null
+{ p1: 'hdd',
+  p2: 'length',
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+[{"vendor":"Samsung","size":33554432,"volume":"C:"},{"vendor":"Maxtor","size":16777216,"volume":"D:"},{"vendor":"Maxtor","size":8388608,"volume":"C:"}]
+{ p1: 'hdd',
+  p2: undefined,
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+[{"vendor":"Samsung","size":33554432,"volume":"C:"},{"vendor":"Maxtor","size":16777216,"volume":"D:"},{"vendor":"Maxtor","size":8388608,"volume":"C:"}]
+{ p1: 'board',
+  p2: undefined,
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+{"vendor":"IBM","model":"IBM-PC S-100","cpu":{"model":"80286","hz":12000},"image":"http://www.s100computers.com/My%20System%20Pages/80286%20Board/Picture%20of%2080286%20V2%20BoardJPG.jpg","video":"http://www.s100computers.com/My%20System%20Pages/80286%20Board/80286-Demo3.mp4"}
+{ p1: 'board',
+  p2: 'vendor',
+  p3: 'length',
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+{"vendor":"IBM","model":"IBM-PC S-100","cpu":{"model":"80286","hz":12000},"image":"http://www.s100computers.com/My%20System%20Pages/80286%20Board/Picture%20of%2080286%20V2%20BoardJPG.jpg","video":"http://www.s100computers.com/My%20System%20Pages/80286%20Board/80286-Demo3.mp4"}
+"IBM"
+{ p1: 'length',
+  p2: undefined,
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+42
+{ p1: 'height',
+  p2: undefined,
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+21
+{ p1: 'width',
+  p2: undefined,
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+54
+{ p1: 'board',
+  p2: 'length',
+  p3: undefined,
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+{"vendor":"IBM","model":"IBM-PC S-100","cpu":{"model":"80286","hz":12000},"image":"http://www.s100computers.com/My%20System%20Pages/80286%20Board/Picture%20of%2080286%20V2%20BoardJPG.jpg","video":"http://www.s100computers.com/My%20System%20Pages/80286%20Board/80286-Demo3.mp4"}
+undefined
+{ p1: 'board',
+  p2: 'cpu',
+  p3: 'hz',
+  p4: undefined,
+  p5: undefined,
+  p6: undefined,
+  p7: undefined,
+  p8: undefined,
+  p9: undefined }
+{"vendor":"IBM","model":"IBM-PC S-100","cpu":{"model":"80286","hz":12000},"image":"http://www.s100computers.com/My%20System%20Pages/80286%20Board/Picture%20of%2080286%20V2%20BoardJPG.jpg","video":"http://www.s100computers.com/My%20System%20Pages/80286%20Board/80286-Demo3.mp4"}
+{"model":"80286","hz":12000}
+12000
+
